@@ -1,4 +1,4 @@
-# IndoLike – Task 2: Predicting Housing Prices 🏠
+ Predicting Housing Prices 🏠
 
 ## 📌 Project Overview
 This project is part of IndoLike's Machine Learning tasks.  
@@ -57,4 +57,4 @@ We use the **Boston Housing Dataset** to train, evaluate, and compare different 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   https://github.com/yusifhuseynn/-ndoLike_Task2_Predicting_Housing_Prices/blob/main/%C4%B0ndolike%20Task%202Predicting%20Housing%20Prices.ipynb
+  
